@@ -53,7 +53,7 @@ div.wrap {
   width: 274px;
   height: 568px;
   padding: 40px;
-  background-image: url(/assets/images/bg-sidebar-desktop.svg);
+  background-image: url(https://raw.githubusercontent.com/PaanKrab/Frontend-Mentor-Multi-step-form/7c9147b9eaadb01afc5147ea5a535ad60c9f4b23/images/bg-sidebar-desktop.svg);
 }
 
 .sidebar {
@@ -553,7 +553,7 @@ p.cost--summary {
     position: relative;
     width: 375px;
     height: 172px;
-    background-image: url(/assets/images/bg-sidebar-mobile.svg);
+    background-image: url(https://raw.githubusercontent.com/PaanKrab/Frontend-Mentor-Multi-step-form/7c9147b9eaadb01afc5147ea5a535ad60c9f4b23/images/bg-sidebar-mobile.svg);
   }
 
   .sidebar {
